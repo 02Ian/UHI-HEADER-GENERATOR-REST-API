@@ -1,0 +1,8 @@
+server:
+  port: 9292
+  servlet:
+    context-path: /generator
+spring:
+  application:
+    person:
+      name: Test
